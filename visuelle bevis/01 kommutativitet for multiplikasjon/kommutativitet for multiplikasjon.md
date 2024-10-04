@@ -18,4 +18,4 @@ Og multiplikasjon er definert slik at denne egenskapen er der også for multipli
 
 Egenskapen at man kan bytte om på operandene kalles at operasjonen er **kommutativ**. Addisjon og multiplikasjon er kommutative. Men potensering er ikke kommutativ, eksempelvis er $5^3 = 125$ mens $3^5 = 243$.
 
-Kommutativitet for multiplikasjon brukte i hin hårde dager å bli forklart som «faktorenes orden er likegyldig». Men faktorenes likegyldige orden, som multiplikasjon har, er en mye mer generell egenskap enn kommutativitet. For at operandenes orden skal være likegyldig må operasjonen være både kommutativ og **assosiativ**, essensielt at du kan sette inn parenteser (gruppere) hvor du vil i en rekke av slike operasjoner: $2 + 3 + 4 = (2 + 3) + 4 = 2 + (3 + 4)$.
+Litt flere detaljer om dette, inkludert om de aktuelle betegnelsene på ting, er lagt [separat](kommutativitet%20for%20multiplikasjon%20-%20detaljer.md) for å unngå støy her.
