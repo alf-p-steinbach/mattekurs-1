@@ -28,7 +28,7 @@ Gjennomsnittet er jo definert å være summen av tallene dividert på antall tal
 
 Hva blir summen av partallene 2, 4, 6 osv. til og med $k$?
 
-Den enkleste måten jeg ser å finne summen på er å si at disse tallene, og dermed summen, er det dobbelte av en forløpende rekke av heltall 1, 2, 3 osv. til og med $n$, der $n = k/2$.
+Den enkleste måten jeg ser å finne summen på er å si at disse tallene, og dermed summen, er det dobbelte av en fortløpende rekke av heltall 1, 2, 3 osv. til og med $n$, der $n = k/2$.
 
 Summen er dermed
 
