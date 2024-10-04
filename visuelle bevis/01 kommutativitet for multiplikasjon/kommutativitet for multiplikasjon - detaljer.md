@@ -33,14 +33,14 @@ I et regneuttrykk som $a + b$ er $a$ og $b$ operander mens $+$ er en operator.
 
 Operandene er typisk tall, mens operatoren er et symbol som står for en operasjon.
 
-Operatoren «$-$» (subtraksjon) er slik at $5-3-2$ skal tolkes som $(5-3)-2$. Og generelt at i en sekvens av subtraksjoner skal den til venstre utføres først. Det kalles at operatoren er **venstre-assosiativ**.
+Operatoren «$−$» (subtraksjon) er slik at $5-3-2$ skal tolkes som $(5-3)-2$. Og generelt at i en sekvens av subtraksjoner skal den til venstre utføres først. Det kalles at operatoren er **venstre-assosiativ**.
 
 Altså, at forekomsten lengst til venstre i en sekvens, assosierer seg sterkest med og dermed knytter seg til operandene rundt seg, som om der er en parentes rundt denne delen.
 
-Hvis man definerer «$↑$» som operator for potensering (Donald Knuths notasjon) slik at for eksempel $5↑3$ betyr $5^3$, så er det naturlig å definere den som **høyre-assosiativ** slik at for eksempel $5↑3↑2$ skal tolkes som $5↑(3↑2)$, og generelt at i en sekvens av potenseringer skal den til høyre utføres først. Både $5↑3↑2$ og $5^{3^2}$ står da for $5^{(3^2)} = 5^9 = 1\ 953\ 125$. Altså, den vanlige potenseringsnotasjonen er i en viss forstand også høyre-assosiativ.
+Hvis man definerer «↑» som operator for potensering (Donald Knuths notasjon) slik at for eksempel $5↑3$ betyr $5^3$, så er det naturlig å definere den som **høyre-assosiativ** slik at for eksempel $5↑3↑2$ skal tolkes som $5↑(3↑2)$, og generelt at i en sekvens av potenseringer skal den til høyre utføres først. Både $5↑3↑2$ og $5^{3^2}$ står da for $5^{(3^2)} = 5^9 = 1\ 953\ 125$. Altså, den vanlige potenseringsnotasjonen er i en viss forstand også høyre-assosiativ.
 
 Og altså, at forekomsten lengst til høyre i en sekvens, assosierer seg sterkest med og dermed knytter seg til operandene rundt seg, som om der er en parentes rundt denne delen.
 
 Addisjon og multiplikasjon er slik at det ikke spiller noen rolle om man starter til venstre eller til høyre i en sekvens av kun addisjoner eller kun multiplikasjoner.
 
-Det gir dermed ikke mening å si at operatorene «$+$» og «$\cdot$» er venstre-assosiative eller høyre-assosiative. I stedet sier man at *operasjonen* er «assosiativ». Mulig måte å tenke på det på: at en operator for operasjonen assosierer like sterkt begge veier. Men så vidt jeg vet finnes det ingen god forklaring. Ordet er nesten det motsatte av det det står for. Det hadde etter min oppfatning vært klarere & mer meningsfylt å si at en slik operasjon er «ikke-assosiativ».
+Det gir dermed ikke mening å si at operatorene «+» og «⋅» er venstre-assosiative eller høyre-assosiative. I stedet sier man at *operasjonen* er «assosiativ». Mulig måte å tenke på det på: at en operator for operasjonen assosierer like sterkt begge veier. Men så vidt jeg vet finnes det ingen god forklaring. Ordet er nesten det motsatte av det det står for. Det hadde etter min oppfatning vært klarere & mer meningsfylt å si at en slik operasjon er «ikke-assosiativ».
