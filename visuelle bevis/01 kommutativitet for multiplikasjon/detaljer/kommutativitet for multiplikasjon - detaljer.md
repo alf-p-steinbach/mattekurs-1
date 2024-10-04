@@ -23,7 +23,7 @@ Ekvivalente operand-rekkefølger fått med rene kommuteringer:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figurer/ren-kommutering.svg">
 
-Mangelen på assosiativitet betyr at selv om man fritt kan bytte om operandene til en gitt forekomst av «⊗», slik som ovenfor, så kan man ikke fritt endre rekkefølgen av operander når der er tre eller flere.
+Mangelen på assosiativitet betyr at selv om man fritt kan bytte om operandene til en gitt forekomst av «⊗», slik som ovenfor, så kan man ikke fritt endre rekkefølgen av operander når der er tre eller flere: *man kan ikke fjerne parentesene*.
 
 
 ## Om ordet «kommutativ».
