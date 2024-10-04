@@ -2,11 +2,11 @@
 
 Multiplikasjon av positive tall slik som $5 \cdot 3$ eller mer generelt $a \cdot b$, tilsvarer **å beregne et areal**:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="01 kommutativitet for multiplikasjon/areal.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figurer/areal.svg">
 
 Arealet kan ikke endre seg om figuren snus 90 grader:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="01 kommutativitet for multiplikasjon/rotert-areal.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figurer/rotert-areal.svg">
 
 Men måten man *tenker* på det som en multiplikasjon er motsatt. I den første figuren er arealet $5 \cdot 3$, mens i den andre figuren er det samme arealet $3 \cdot 5$. Siden de to tallene er vilkårlig valgte beviser det at
 
