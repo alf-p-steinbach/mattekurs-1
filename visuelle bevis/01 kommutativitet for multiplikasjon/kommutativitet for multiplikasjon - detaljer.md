@@ -4,7 +4,7 @@
 
 Kommutativitet for multiplikasjon brukte i hin hårde dager å bli forklart som «faktorenes orden er likegyldig». Men faktorenes likegyldige orden, som multiplikasjon har, er en mye mer generell egenskap enn kommutativitet. For at operandenes orden skal være likegyldig må operasjonen være både kommutativ og **assosiativ**, essensielt at du kan sette inn parenteser (gruppere) hvor du vil i en rekke av slike operasjoner: $2 + 3 + 4 = (2 + 3) + 4 = 2 + (3 + 4)$.
 
-Litt oppkonstruert eksempel. Hvis man definerer at symbolet «$\otimes$» står for (dette er ikke en standard betydning) en operasjon der $a \otimes b = (a - 1) \cdot (b - 1)$, så er denne ganske kunstige operasjonen kommutativ men ikke assosiativ. Den er dermed ikke **ordensuavhengig** slik addisjon og multiplikasjon er: for «$\otimes$» kan du ikke fritt endre rekkefølgen på operandene når der er tre eller flere.
+Litt oppkonstruert eksempel. Hvis man definerer at symbolet «⊗» står for (dette er ikke en standard betydning) en operasjon der $a \otimes b = (a - 1) \cdot (b - 1)$, så er denne ganske kunstige operasjonen kommutativ men ikke assosiativ. Den er dermed ikke **ordensuavhengig** slik addisjon og multiplikasjon er: for «⊗» kan du ikke fritt endre rekkefølgen på operandene når der er tre eller flere.
 
 Kommutativ: for eksempel, $7 \otimes 4 = 18 = 4 \otimes 7$.
 
