@@ -21,7 +21,7 @@ Ikke assosiativ: for eksempel, $(7 \otimes 4) \otimes 3 = 34$, mens $7 \otimes (
 
 Ekvivalente operand-rekkefølger fått med rene kommuteringer:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figurer/ren-kommutering.svg">
+$\quad$ <img src="figurer/ren-kommutering.svg">
 
 Mangelen på assosiativitet betyr at selv om man fritt kan bytte om operandene til en gitt forekomst av «⊗», slik som ovenfor, så kan man ikke fritt endre rekkefølgen av operander når der er tre eller flere: *man kan ikke fjerne parentesene*.
 
