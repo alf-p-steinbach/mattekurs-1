@@ -19,7 +19,7 @@ Siden det doble arealet er 56 må arealet for heltallsrekken selv, være 28. Eks
 
 $$\frac{n^2 + n}{2}$$
 
-En grei matematisk måte å se det på er at summen er $n$ ganger *gjennomsnittet* $\frac{1 \: + \: n}{2}$  av tallene , altså $n \cdot \left( (1 + n)/2 \right)$. Ja, det er samme formel. Bare et annet perspektiv.
+En grei matematisk måte å se det på er at summen er $n$ ganger *gjennomsnittet* $\frac{1  +  n}{2}$  av tallene , altså $n \cdot \left( (1 + n)/2 \right)$. Ja, det er samme formel. Bare et annet perspektiv.
 
 Gjennomsnittet er jo definert å være summen av tallene dividert på antall tall.
 
