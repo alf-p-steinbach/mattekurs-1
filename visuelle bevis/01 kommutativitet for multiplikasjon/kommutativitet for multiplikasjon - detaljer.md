@@ -33,7 +33,7 @@ I et regneuttrykk som $a + b$ er $a$ og $b$ operander mens $+$ er en operator.
 
 Operandene er typisk tall, mens operatoren er et symbol som står for en operasjon.
 
-Operatoren «$−$» (subtraksjon) er slik at $5-3-2$ skal tolkes som $(5-3)-2$. Og generelt at i en sekvens av subtraksjoner skal den til venstre utføres først. Det kalles at operatoren er **venstre-assosiativ**.
+Operatoren «−» (subtraksjon) er slik at $5-3-2$ skal tolkes som $(5-3)-2$. Og generelt at i en sekvens av subtraksjoner skal den til venstre utføres først. Det kalles at operatoren er **venstre-assosiativ**.
 
 Altså, at forekomsten lengst til venstre i en sekvens, assosierer seg sterkest med og dermed knytter seg til operandene rundt seg, som om der er en parentes rundt denne delen.
 
