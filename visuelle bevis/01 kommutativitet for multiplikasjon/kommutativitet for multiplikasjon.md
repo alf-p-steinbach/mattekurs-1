@@ -18,4 +18,4 @@ Og multiplikasjon er definert slik at denne egenskapen er der også for multipli
 
 Egenskapen at man kan bytte om på operandene kalles at operasjonen er **kommutativ**. Addisjon og multiplikasjon er kommutative. Men potensering er ikke kommutativ, eksempelvis er $5^3 = 125$ mens $3^5 = 243$.
 
-Litt flere detaljer om dette, inkludert om de aktuelle betegnelsene på ting, er lagt [separat](kommutativitet%20for%20multiplikasjon%20-%20detaljer.md) for å unngå støy her.
+Litt flere detaljer om dette, inkludert om de aktuelle betegnelsene på ting, er lagt [separat](detaljer/kommutativitet%20for%20multiplikasjon%20-%20detaljer.md) for å unngå støy her.
