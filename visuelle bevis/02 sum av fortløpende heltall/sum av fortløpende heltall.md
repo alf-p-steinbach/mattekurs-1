@@ -4,7 +4,7 @@ En heltallsrekke slik som tallene 1 til og med 7 kan presenteres og tenkes på v
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="figurer/heltallsrekke.svg">
 
-Mer generelt kan dette være en heltallsrekke 1 til og med $n$, men plassen her strekker ikke til for for eksempel $n = 10\:000$; det konkrete eksemplet med $n = 7$ får holde.
+Mer generelt kan dette være en heltallsrekke 1 til og med $n$, men plassen her strekker ikke til for for eksempel $n = 10\ 000$; det konkrete eksemplet med $n = 7$ får holde.
 
 Summen av tallene er nødvendigvis det totale antallet kvadrater. Altså arealet av søylene. En grei måte å se det arealet mer som et samlet areal er å legge søylene helt inntil hverandre:
 
