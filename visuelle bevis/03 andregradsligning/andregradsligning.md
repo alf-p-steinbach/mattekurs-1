@@ -6,7 +6,7 @@ $\quad\quad \color{white}ax^2 + \color{black}bx + c = 0$
 
 &hellip; gir $bx = -c$ og dermed $x = -c/b$, og ligningen
 
-$\quad\quad ax^2 \color{white}+ bx \color{black} + c\ = 0$
+$\quad\quad ax^2 \color{white}+ bx \color{black}\ + c\ = 0$
 
 &hellip; er bare ørlite mer komplisert: den gir $ax^2 = -c$, dermed $x^2 = -c/a$, slik at $x = \pm \sqrt{-c/a}$.
 
