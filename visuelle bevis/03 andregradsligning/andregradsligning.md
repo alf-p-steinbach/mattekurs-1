@@ -18,7 +18,9 @@ $\quad\quad ax^2 + bx + c = 0$
 
 Ligningen kan dog forenkles *litt* ved å dividere begge sider på $a$, som reduserer antall tall (kalt koeffisienter) i ligningen fra tre, nemlig $a$, $b$ og $c$, til to, nemlig $b/a$ og $c/a$:
 
-$$ x^2 + \frac{b}{a}x + \frac{c}{a} = 0$$
+$$
+x^2 + \frac{b}{a}x + \frac{c}{a} = 0
+$$
 
 
 ---
