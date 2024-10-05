@@ -40,7 +40,9 @@ Etter flyttingen av den avkuttede strimen mangler det nå bare et lite hjørne, 
 
 Arealet av hjørnet er $\left(\frac{b}{2a}\right)^2$. Og det betyr at hvis to-*x*-ers $x^2 + \frac{b}{a}x$ erstattes med singel-*x*-ers $\left(x + \frac{b}{2a}\right)^2$ så blir verdien i denne delen av ligningen $\left(\frac{b}{2a}\right)^2$ *for mye*. Men det kan jo kompenseres ved å også trekke fra akkurat så mye, som gir
 
-$$(x + \frac{b}{2a})^2 - (\frac{b}{2a})^2 + \frac{c}{a} = 0$$
+$$
+\left(x + \frac{b}{2a}\right)^2 - \left(\frac{b}{2a}\right)^2 + \frac{c}{a} = 0
+$$
 
 Dette grepet kalles **å fullføre kvadratet**, nemlig å legge til den lille biten som mangler i det utvidede kvadratet med sidelengde $x + \frac{b}{2a}$, og å altså kompensere det ved å også trekke fra akkurat så mye i resten av ligningen.
 
@@ -48,9 +50,9 @@ Videre manipulering av ligningen gir så den vanlige formelen for andregradslign
 
 $$
 \begin{align*}
-(x + \frac{b}{2a})^2 - (\frac{b}{2a})^2 + \frac{c}{a} & = 0 \\
+\left(x + \frac{b}{2a}\right)^2 - \left(\frac{b}{2a}\right)^2 + \frac{c}{a} & = 0 \\
 & \Updownarrow \\
-(x + \frac{b}{2a})^2 & = \frac{b^2}{4a^2} - \frac{4ac}{4a^2} \\
+\left(x + \frac{b}{2a}\right)^2 & = \frac{b^2}{4a^2} - \frac{4ac}{4a^2} \\
 & \Updownarrow \\
 x + \frac{b}{2a} & = \pm \frac{ \sqrt{ b^2 - 4ac }}{2a} \\
 & \Updownarrow \\
@@ -66,4 +68,4 @@ Er dette virkelig et et visuelt «bevis» eller er det bare en visuell *hjelp* t
 
 Kanskje litt begge deler. 😃
 
-Verd å merke: den visuelle konstruksjonen forutsetter at $x > 0$ men resultatet fungerer generelt, også for negative tall som løsning(er). Så den visuelle konstruksjonen er kun et bevis (hvis den er det) for tilfellet $x > 0$. Men når en slik innfallsvinkel har sørget for at man har kommet fram til et matematisk resultat, som er det vanskelige, det å forsere kompleksiteten, så kan *resultatet* bevises mer formelt og generelt.
+Verd å merke: den visuelle konstruksjonen forutsetter at $x \ge 0$ men resultatet fungerer generelt, også for negative tall som løsning(er). Så den visuelle konstruksjonen er kun et bevis (hvis den er det) for tilfellet $x \ge 0$. Men når en slik innfallsvinkel har sørget for at man har kommet fram til et matematisk resultat, som er det vanskelige, det å forsere kompleksiteten, så kan *resultatet* bevises mer formelt og generelt.
