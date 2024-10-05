@@ -6,7 +6,7 @@ $\quad\quad \color{white}ax^2 + \color{black}bx + c = 0$
 
 &hellip; gir $bx = -c$ og dermed $x = -c/b$, og ligningen
 
-$\quad\quad ax^2 \color{white}+ bx \color{black}+ c = 0$
+$\quad\quad ax^2 \color{white}+ bx \color{black}+ c\ = 0$
 
 &hellip; er bare ørlite mer komplisert: den gir $ax^2 = -c$, dermed $x^2 = -c/a$, slik at $x = \pm \sqrt{-c/a}$.
 
@@ -64,4 +64,4 @@ Er dette virkelig et et visuelt «bevis» eller er det bare en visuell *hjelp* t
 
 Kanskje litt begge deler. 😃
 
-Verd å merke: den visuelle konstruksjonen forutsetter at $x > 0$ men resultatet fungerer generelt, også for negative tall som løsning(er). Så den visuelle konstruksjonen er kun et bevis for tilfellet $x > 0$. Men når en slik innfallsvinkel har sørget for at man har kommet fram til et matematisk resultat, som er det vanskelige, så kan resultatet bevises mer formelt.
+Verd å merke: den visuelle konstruksjonen forutsetter at $x > 0$ men resultatet fungerer generelt, også for negative tall som løsning(er). Så den visuelle konstruksjonen er kun et bevis for tilfellet $x > 0$. Men når en slik innfallsvinkel har sørget for at man har kommet fram til et matematisk resultat, som er det vanskelige, så kan resultatet bevises mer formelt og generelt.
