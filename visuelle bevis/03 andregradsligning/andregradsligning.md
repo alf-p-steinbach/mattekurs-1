@@ -38,7 +38,7 @@ $\quad\quad$ <img src="./figurer/ufullstendig-kvadrat.svg">
 
 Etter flyttingen av den avkuttede strimen mangler det nå bare et lite hjørne, nede til høyre, på å ha et fullstendig kvadrat på formen $(x + m)^2$.
 
-Arealet av hjørnet er $(\frac{b}{2a})^2$. Og det betyr at hvis to-$x$-ers $x^2 + \frac{b}{a}x$ erstattes med singel-$x$-ers $(x + \frac{b}{2a})^2$ så blir verdien i denne delen av ligningen $(\frac{b}{2a})^2$ *for mye*. Men det kan jo kompenseres ved å også trekke fra akkurat så mye, som gir
+Arealet av hjørnet er $(\frac{b}{2a})^2$. Og det betyr at hvis to-*x*-ers $x^2 + \frac{b}{a}x$ erstattes med singel-*x*-ers $(x + \frac{b}{2a})^2$ så blir verdien i denne delen av ligningen $(\frac{b}{2a})^2$ *for mye*. Men det kan jo kompenseres ved å også trekke fra akkurat så mye, som gir
 
 $$(x + \frac{b}{2a})^2 - (\frac{b}{2a})^2 + \frac{c}{a} = 0$$
 
