@@ -11,7 +11,7 @@ Men ordensuavhengighet, som addisjon og multiplikasjon har, er ikke det samme so
 * en ordensuavhengig operasjon er nødvendigvis også kommutativ, men
 * en kommutativ operasjon behøver ikke å være ordensuavhengig.
 
- For at operandenes orden skal være likegyldig, ordensuavhengigheten, må operasjonen være både kommutativ og **assosiativ**. «Assosiativ» betyr at du kan sette inn parenteser (gruppere) hvor du vil i en rekke av slike operasjoner. For eksempel at $2 + 3 + 4 = (2 + 3) + 4 = 2 + (3 + 4)$.
+ For at operandenes orden skal være likegyldig, ordensuavhengigheten, må operasjonen være både kommutativ og **assosiativ**. «Assosiativ» betyr at du kan sette inn parenteser (gruppere), og ikke minst fjerne dem!, hvor du vil i en rekke av slike operasjoner. For eksempel at $2 + 3 + 4 = (2 + 3) + 4 = 2 + (3 + 4)$.
 
 Litt oppkonstruert men kjekt å kjenne til eksempel. Hvis man definerer at symbolet «⊗» står for (dette er ikke en standard betydning) en operasjon der $a \otimes b = (a - 1) \cdot (b - 1)$, så er denne ganske kunstige operasjonen kommutativ men ikke assosiativ. Den er dermed ikke ordensuavhengig slik addisjon og multiplikasjon er: for «⊗» kan du ikke fritt endre rekkefølgen på operandene når der er tre eller flere.
 
