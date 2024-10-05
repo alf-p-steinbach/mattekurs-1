@@ -64,7 +64,7 @@ Med litt bedre kjennskap til LaTeX og GitHub sin variant hadde jeg kanskje klart
 
 ---
 
-Er dette virkelig et et visuelt «bevis» eller er det bare en visuell *hjelp* til hjernen?
+Er dette virkelig et visuelt «bevis» eller er det bare en visuell *hjelp* til hjernen?
 
 Kanskje litt begge deler. 😃
 
